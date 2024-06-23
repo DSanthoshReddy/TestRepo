@@ -12,7 +12,9 @@ namespace Test_app1
         {
             Console.WriteLine("This is test app");
 
+            Console.WriteLine("Hi, UI setup done");
             Console.ReadLine();
+
         }
     }
 }
